@@ -4,59 +4,72 @@
 
 ### Computer Science Student | Aspiring Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pietro2820-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pietro2820)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-```text
-pietro@dev:~$ whoami
-
-Computer Science student currently in my 4th semester,
-focused on becoming a Backend Developer.
-
-I enjoy building software, solving problems and turning
-ideas into practical and scalable systems.
-
-Currently focused on:
-→ Backend Development
-→ Java
-→ Databases
-→ APIs
-→ Web Development
-```
-
 ## 👨‍💻 About Me
+
+```text
+> Computer Science Student
+> Backend Developer in progress
+
+Currently studying:
+• Java
+• SQL & Databases
+• REST APIs
+• Web Development
+• Software Engineering
+
+Goal:
+Build better, larger and more robust software.
+```
 
 I'm a **Computer Science student** currently in my **4th semester**, with an expected graduation in **2028**.
 
-My main goal is to become a **Backend Developer**, while keeping myself open to different technologies and programming languages.
+I'm focused on becoming a **Backend Developer**, with a strong interest in **Java, databases, APIs and web development**.
 
-I enjoy developing applications, working with databases, creating APIs and understanding how systems work behind the scenes.
+I enjoy building projects, solving problems and learning how to create applications that are increasingly **robust, organized and scalable**.
 
-I already have experience developing projects with **Java**, working with **SQL databases**, using **Git/GitHub**, and building simple projects with **Python**.
+I'm always open to learning new technologies and programming languages. My main focus is understanding backend concepts and becoming a developer capable of adapting to different technologies and real-world challenges.
 
-I'm currently focused on improving my backend development skills and building increasingly larger, more robust and well-structured projects.
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**
+
+📚 4th Semester  
+🎓 Expected graduation: **2028**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Main Stack
+### 💻 Programming Languages
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 
 </p>
 
-### Web Development
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+
+</p>
+
+### 🌐 Web Development
 
 <p align="left">
 
@@ -66,11 +79,12 @@ I'm currently focused on improving my backend development skills and building in
 
 </p>
 
-### Also Familiar With
+### 🔧 Tools
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
@@ -80,14 +94,16 @@ I'm currently focused on improving my backend development skills and building in
 
 ### 🔥 Burn
 
-A Python project focused on building an interactive application with logic, data processing and automation concepts.
+A Python project focused on building an interactive application, exploring programming logic, data processing and automation concepts.
 
 **Technologies:**
-- Python
-- Logic & automation
-- Data processing
 
-[View Project →](https://github.com/Pietro2820/Burn)
+- Python
+- Data processing
+- Programming logic
+- Automation concepts
+
+🔗 [View Repository](https://github.com/Pietro2820/Burn)
 
 ---
 
@@ -95,21 +111,22 @@ A Python project focused on building an interactive application with logic, data
 
 A parking management system developed to simulate vehicle entry and exit processes.
 
-The project involves concepts such as:
+The project explores concepts such as:
 
 - Vehicle registration
 - License plate management
-- Entry and exit records
-- Database integration
+- Parking entry and exit
+- Database persistence
+- SQL queries
 - Java application logic
-- SQL
 
 **Technologies:**
+
 - Java
 - MySQL
 - SQL
 
-[View Project →](https://github.com/Pietro2820)
+🔗 [View Repository](https://github.com/Pietro2820)
 
 ---
 
@@ -117,9 +134,9 @@ The project involves concepts such as:
 
 ### Cafeteria Management System
 
-I'm currently planning a new project focused on building a more complete and robust system for a cafeteria.
+A new project currently being planned, focused on developing a more complete and robust system for cafeteria management.
 
-The project will be designed to explore concepts such as:
+The project will explore concepts such as:
 
 - Backend architecture
 - REST APIs
@@ -131,37 +148,38 @@ The project will be designed to explore concepts such as:
 - Authentication
 - Business rules
 
-This project will be an opportunity to move beyond academic exercises and build a system closer to a real-world application.
+The goal is to build a project closer to a **real-world application**, going beyond simple academic exercises.
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently focusing on improving my knowledge in:
+I'm currently focused on improving my knowledge in:
 
 - ☕ Java
 - 🔌 REST APIs
-- 🗄️ Databases & SQL
+- 🗄️ SQL & Database Design
 - 🌐 Web Development
 - 🏗️ Backend Architecture
 - 🧩 Software Engineering
 - 🐍 Python
-- 🔧 Building larger and more robust applications
+- 📐 Data Structures & Programming Logic
 
-My current goal is not only to make applications that work, but to understand **how to design and structure better software**.
+My goal is to move from smaller academic projects toward **larger, better-structured and more robust applications**.
 
 ---
 
-## 🎯 My Goals
+## 🎯 Career Goals
 
 ### Short Term
 
 - Improve my Java skills
-- Learn and build REST APIs
+- Learn and develop REST APIs
 - Improve database design
-- Build larger projects
+- Build larger personal projects
 - Strengthen my software engineering fundamentals
-- Develop a stronger portfolio
+- Build a strong portfolio
+- Gain professional experience in software development
 
 ### Medium Term
 
@@ -169,10 +187,11 @@ My current goal is not only to make applications that work, but to understand **
 - Work professionally with Backend Development
 - Gain experience with real-world systems
 - Learn frameworks and technologies used in the industry
+- Improve my ability to design and maintain software
 
 ### Long Term
 
-Become a strong **Backend Developer**, capable of working with different languages and technologies while building reliable, scalable and maintainable software.
+Become a strong **Backend Developer**, capable of working with different programming languages and technologies while building **reliable, scalable and maintainable software**.
 
 ---
 
@@ -188,7 +207,17 @@ Become a strong **Backend Developer**, capable of working with different languag
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pietro2820&theme=github-dark)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -204,20 +233,6 @@ I'm always open to connecting with other developers, learning from new people an
 
 <div align="center">
 
-**Let's build something! 🚀**
+### Let's build something! 🚀
 
 </div>
-<!--
-**Pietro2820/Pietro2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
